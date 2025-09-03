@@ -12,7 +12,7 @@ XPath增强版工具是一款功能强大的HTML分析工具，提供可视化HT
 
 ## 🚀 快速开始（推荐）
 ### 方法1：直接运行可执行文件（无需安装）
-双击运行 `dist\XPath解析器.exe` 即可启动增强版GUI
+双击运行 `XPath解析器.exe` 即可启动增强版GUI
 
 ### 方法2：Python源码运行
 ```bash
@@ -22,9 +22,6 @@ pip install -r requirements.txt
 # 启动增强版GUI
 python xpath_gui_enhanced.py
 
-# 或使用统一入口
-python xpath_tools.py gui
-```
 
 ## 🖥️ 增强版GUI功能详解
 
